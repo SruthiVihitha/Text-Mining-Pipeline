@@ -1,0 +1,7 @@
+gensim
+nltk
+pyLDAvis
+matplotlib
+pandas
+scikit-learn
+wordcloud
